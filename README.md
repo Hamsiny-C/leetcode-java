@@ -19,10 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0761-special-binary-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0761-special-binary-string/) | Hard |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0761-special-binary-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0761-special-binary-string/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Recursion
@@ -45,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3713-longest-balanced-substring-i/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0761-special-binary-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0761-special-binary-string/) | Hard |
 <!---LeetCode Topics End-->
