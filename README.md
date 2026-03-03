@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3713-longest-balanced-substring-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3713-longest-balanced-substring-i/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3713-longest-balanced-substring-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3713-longest-balanced-substring-i/) | Medium |
 <!---LeetCode Topics End-->
