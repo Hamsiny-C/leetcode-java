@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,4 +16,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 <!---LeetCode Topics End-->
