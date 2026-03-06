@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0761-special-binary-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0761-special-binary-string/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Hamsiny-C/leetcode-java/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
