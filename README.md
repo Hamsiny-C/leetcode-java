@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/Hamsiny-C/leetcode-java/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/Hamsiny-C/leetcode-java/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Hamsiny-C/leetcode-java/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
