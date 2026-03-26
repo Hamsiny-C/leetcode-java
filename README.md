@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hamsiny-C/leetcode-java/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Hamsiny-C/leetcode-java/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hamsiny-C/leetcode-java/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -57,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -84,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
