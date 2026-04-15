@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Hamsiny-C/leetcode-java/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Hamsiny-C/leetcode-java/tree/main/2751-robot-collisions/) | Hard |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Hamsiny-C/leetcode-java/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Hamsiny-C/leetcode-java/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3713-longest-balanced-substring-i/) | Medium |
