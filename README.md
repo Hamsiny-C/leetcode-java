@@ -1,4 +1,3 @@
-````html
 <div align="center">
 
 # 👩‍💻💖 LeetCode Journey 💖👩‍💻
@@ -36,8 +35,11 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## 💻 Languages & Tools
 
 <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/LeetCode-BA55D3?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/VS_Code-DA70D6?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 ---
@@ -70,30 +72,6 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 
 ---
 
-## 🚀 Progress
-
-```text
-Easy      ███████████░░░░░░░░
-Medium    ████████░░░░░░░░░░░
-Hard      ███░░░░░░░░░░░░░░░░
-````
-
----
-
-## 🌈 Why This Repository?
-
-✨ Clean Java Solutions
-
-✨ Beginner Friendly Code
-
-✨ Consistent Learning
-
-✨ Interview Preparation
-
-✨ DSA Practice Archive
-
----
-
 ## 📊 Coding Motivation
 
 <img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8e0c-4f43-8e7e-1d4b14efc6bd.gif" width="500"/>
@@ -117,4 +95,3 @@ Hard      ███░░░░░░░░░░░░░░░░
 ### ⭐ Happy Coding! ⭐
 
 </div>
-```
