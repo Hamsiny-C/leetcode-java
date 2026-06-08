@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Hamsiny-C/leetcode-java/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Hamsiny-C/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Hamsiny-C/leetcode-java/tree/main/2751-robot-collisions/) | Hard |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hamsiny-C/leetcode-java/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Hamsiny-C/leetcode-java/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Hamsiny-C/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2751-robot-collisions](https://github.com/Hamsiny-C/leetcode-java/tree/main/2751-robot-collisions/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Hamsiny-C/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hamsiny-C/leetcode-java/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
