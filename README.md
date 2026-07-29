@@ -133,8 +133,13 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Hamsiny-C/leetcode-java/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Hamsiny-C/leetcode-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Hamsiny-C/leetcode-java/tree/main/0206-reverse-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Hamsiny-C/leetcode-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
