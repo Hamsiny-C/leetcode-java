@@ -104,6 +104,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Hamsiny-C/leetcode-java/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Hamsiny-C/leetcode-java/tree/main/0704-binary-search/) | Easy |
+| [1406-stone-game-iii](https://github.com/Hamsiny-C/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1470-shuffle-the-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1929-concatenation-of-array/) | Easy |
@@ -148,4 +149,24 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Hamsiny-C/leetcode-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Hamsiny-C/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Hamsiny-C/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Hamsiny-C/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Hamsiny-C/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Hamsiny-C/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
