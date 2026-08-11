@@ -123,6 +123,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Hamsiny-C/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
+| [0146-lru-cache](https://github.com/Hamsiny-C/leetcode-java/tree/main/0146-lru-cache/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Hamsiny-C/leetcode-java/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Hamsiny-C/leetcode-java/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Hamsiny-C/leetcode-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -205,4 +207,12 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Hamsiny-C/leetcode-java/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Hamsiny-C/leetcode-java/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
