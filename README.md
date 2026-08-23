@@ -246,4 +246,5 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/Hamsiny-C/leetcode-java/tree/main/0183-customers-who-never-order/) | Easy |
+| [0185-department-top-three-salaries](https://github.com/Hamsiny-C/leetcode-java/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
