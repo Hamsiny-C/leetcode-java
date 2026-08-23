@@ -242,4 +242,8 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/Hamsiny-C/leetcode-java/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
