@@ -107,6 +107,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0049-group-anagrams](https://github.com/Hamsiny-C/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hamsiny-C/leetcode-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Hamsiny-C/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Hamsiny-C/leetcode-java/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -129,6 +130,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hamsiny-C/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
@@ -150,6 +152,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Hamsiny-C/leetcode-java/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hamsiny-C/leetcode-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Hamsiny-C/leetcode-java/tree/main/0704-binary-search/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -279,6 +282,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hamsiny-C/leetcode-java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hamsiny-C/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
