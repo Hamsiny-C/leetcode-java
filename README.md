@@ -140,6 +140,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0242-valid-anagram](https://github.com/Hamsiny-C/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Hamsiny-C/leetcode-java/tree/main/0771-jewels-and-stones/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hamsiny-C/leetcode-java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -209,6 +210,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0242-valid-anagram](https://github.com/Hamsiny-C/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Hamsiny-C/leetcode-java/tree/main/0771-jewels-and-stones/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hamsiny-C/leetcode-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hamsiny-C/leetcode-java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -277,6 +279,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hamsiny-C/leetcode-java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hamsiny-C/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hamsiny-C/leetcode-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
