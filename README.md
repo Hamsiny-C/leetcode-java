@@ -112,6 +112,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0283-move-zeroes](https://github.com/Hamsiny-C/leetcode-java/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Hamsiny-C/leetcode-java/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Hamsiny-C/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Hamsiny-C/leetcode-java/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Hamsiny-C/leetcode-java/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
@@ -132,6 +133,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Hamsiny-C/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hamsiny-C/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
@@ -157,6 +159,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Hamsiny-C/leetcode-java/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Hamsiny-C/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -286,6 +289,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Hamsiny-C/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Hamsiny-C/leetcode-java/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hamsiny-C/leetcode-java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hamsiny-C/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
