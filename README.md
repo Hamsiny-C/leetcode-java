@@ -118,6 +118,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Hamsiny-C/leetcode-java/tree/main/0986-interval-list-intersections/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/Hamsiny-C/leetcode-java/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hamsiny-C/leetcode-java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1406-stone-game-iii](https://github.com/Hamsiny-C/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hamsiny-C/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -234,6 +235,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0881-boats-to-save-people](https://github.com/Hamsiny-C/leetcode-java/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Hamsiny-C/leetcode-java/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
