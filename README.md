@@ -112,6 +112,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0268-missing-number](https://github.com/Hamsiny-C/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Hamsiny-C/leetcode-java/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Hamsiny-C/leetcode-java/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Hamsiny-C/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -151,6 +152,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0349-intersection-of-two-arrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Hamsiny-C/leetcode-java/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Hamsiny-C/leetcode-java/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -239,6 +241,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0242-valid-anagram](https://github.com/Hamsiny-C/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Hamsiny-C/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Hamsiny-C/leetcode-java/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
