@@ -128,6 +128,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hamsiny-C/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/Hamsiny-C/leetcode-java/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1929-concatenation-of-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Hamsiny-C/leetcode-java/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -142,6 +143,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0713-subarray-product-less-than-k](https://github.com/Hamsiny-C/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hamsiny-C/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/Hamsiny-C/leetcode-java/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Hamsiny-C/leetcode-java/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Hamsiny-C/leetcode-java/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/Hamsiny-C/leetcode-java/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hamsiny-C/leetcode-java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Search
