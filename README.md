@@ -156,6 +156,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0268-missing-number](https://github.com/Hamsiny-C/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Hamsiny-C/leetcode-java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -240,6 +241,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0242-valid-anagram](https://github.com/Hamsiny-C/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Hamsiny-C/leetcode-java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Hamsiny-C/leetcode-java/tree/main/0771-jewels-and-stones/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hamsiny-C/leetcode-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -314,6 +316,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Hamsiny-C/leetcode-java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Hamsiny-C/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Hamsiny-C/leetcode-java/tree/main/0904-fruit-into-baskets/) | Medium |
