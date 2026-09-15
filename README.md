@@ -126,6 +126,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0930-binary-subarrays-with-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Hamsiny-C/leetcode-java/tree/main/0986-interval-list-intersections/) | Medium |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Hamsiny-C/leetcode-java/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Hamsiny-C/leetcode-java/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hamsiny-C/leetcode-java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -147,6 +148,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Hamsiny-C/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Hamsiny-C/leetcode-java/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hamsiny-C/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -168,6 +170,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0771-jewels-and-stones](https://github.com/Hamsiny-C/leetcode-java/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Hamsiny-C/leetcode-java/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Hamsiny-C/leetcode-java/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Hamsiny-C/leetcode-java/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hamsiny-C/leetcode-java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -365,4 +368,8 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Hamsiny-C/leetcode-java/tree/main/0056-merge-intervals/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Hamsiny-C/leetcode-java/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 <!---LeetCode Topics End-->
