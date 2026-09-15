@@ -109,6 +109,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0049-group-anagrams](https://github.com/Hamsiny-C/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Hamsiny-C/leetcode-java/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Hamsiny-C/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Hamsiny-C/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hamsiny-C/leetcode-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -182,6 +183,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Hamsiny-C/leetcode-java/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Hamsiny-C/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hamsiny-C/leetcode-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Hamsiny-C/leetcode-java/tree/main/0268-missing-number/) | Easy |
@@ -374,5 +376,6 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Hamsiny-C/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Hamsiny-C/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Hamsiny-C/leetcode-java/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 <!---LeetCode Topics End-->
