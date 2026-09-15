@@ -108,6 +108,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0042-trapping-rain-water](https://github.com/Hamsiny-C/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Hamsiny-C/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Hamsiny-C/leetcode-java/tree/main/0056-merge-intervals/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Hamsiny-C/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hamsiny-C/leetcode-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -157,6 +158,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Hamsiny-C/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Hamsiny-C/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0146-lru-cache](https://github.com/Hamsiny-C/leetcode-java/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/Hamsiny-C/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Hamsiny-C/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
@@ -371,5 +373,6 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Hamsiny-C/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Hamsiny-C/leetcode-java/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 <!---LeetCode Topics End-->
