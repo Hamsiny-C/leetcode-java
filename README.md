@@ -103,6 +103,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | ------- | ------- |
 | [0015-3sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Hamsiny-C/leetcode-java/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Hamsiny-C/leetcode-java/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Hamsiny-C/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
@@ -218,6 +219,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | ------- | ------- |
 | [0015-3sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Hamsiny-C/leetcode-java/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Hamsiny-C/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hamsiny-C/leetcode-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
