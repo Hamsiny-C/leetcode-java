@@ -129,6 +129,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0881-boats-to-save-people](https://github.com/Hamsiny-C/leetcode-java/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Hamsiny-C/leetcode-java/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Hamsiny-C/leetcode-java/tree/main/0986-interval-list-intersections/) | Medium |
@@ -232,6 +233,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0349-intersection-of-two-arrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Hamsiny-C/leetcode-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Hamsiny-C/leetcode-java/tree/main/0881-boats-to-save-people/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Hamsiny-C/leetcode-java/tree/main/0986-interval-list-intersections/) | Medium |
 ## Math
@@ -284,6 +286,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Hamsiny-C/leetcode-java/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Hamsiny-C/leetcode-java/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Divide and Conquer
