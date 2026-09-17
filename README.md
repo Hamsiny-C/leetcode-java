@@ -112,6 +112,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0073-set-matrix-zeroes](https://github.com/Hamsiny-C/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Hamsiny-C/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Hamsiny-C/leetcode-java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hamsiny-C/leetcode-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0189-rotate-array/) | Medium |
@@ -379,11 +380,13 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Hamsiny-C/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Hamsiny-C/leetcode-java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Hamsiny-C/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Hamsiny-C/leetcode-java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/0496-next-greater-element-i/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -396,4 +399,8 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0074-search-a-2d-matrix](https://github.com/Hamsiny-C/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/Hamsiny-C/leetcode-java/tree/main/0289-game-of-life/) | Medium |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Hamsiny-C/leetcode-java/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Hamsiny-C/leetcode-java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
