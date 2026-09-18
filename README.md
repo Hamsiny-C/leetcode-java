@@ -115,6 +115,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hamsiny-C/leetcode-java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0088-merge-sorted-array/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Hamsiny-C/leetcode-java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hamsiny-C/leetcode-java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -253,6 +254,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Hamsiny-C/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Hamsiny-C/leetcode-java/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Hamsiny-C/leetcode-java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hamsiny-C/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1406-stone-game-iii](https://github.com/Hamsiny-C/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
