@@ -108,6 +108,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0035-search-insert-position](https://github.com/Hamsiny-C/leetcode-java/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Hamsiny-C/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Hamsiny-C/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Hamsiny-C/leetcode-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Hamsiny-C/leetcode-java/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Hamsiny-C/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Hamsiny-C/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -250,6 +251,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Hamsiny-C/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Hamsiny-C/leetcode-java/tree/main/0053-maximum-subarray/) | Medium |
 | [1406-stone-game-iii](https://github.com/Hamsiny-C/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
@@ -295,6 +297,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Hamsiny-C/leetcode-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
