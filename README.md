@@ -190,6 +190,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Hamsiny-C/leetcode-java/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Hamsiny-C/leetcode-java/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Hamsiny-C/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hamsiny-C/leetcode-java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Search
@@ -283,6 +284,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0692-top-k-frequent-words](https://github.com/Hamsiny-C/leetcode-java/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Hamsiny-C/leetcode-java/tree/main/0771-jewels-and-stones/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hamsiny-C/leetcode-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Hamsiny-C/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hamsiny-C/leetcode-java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -302,6 +304,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0922-sort-array-by-parity-ii](https://github.com/Hamsiny-C/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Hamsiny-C/leetcode-java/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Hamsiny-C/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +359,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Hamsiny-C/leetcode-java/tree/main/0881-boats-to-save-people/) | Medium |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Hamsiny-C/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
