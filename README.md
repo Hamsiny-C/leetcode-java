@@ -128,6 +128,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/0496-next-greater-element-i/) | Easy |
+| [0621-task-scheduler](https://github.com/Hamsiny-C/leetcode-java/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Hamsiny-C/leetcode-java/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Hamsiny-C/leetcode-java/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Hamsiny-C/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -183,6 +184,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/0496-next-greater-element-i/) | Easy |
+| [0621-task-scheduler](https://github.com/Hamsiny-C/leetcode-java/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Hamsiny-C/leetcode-java/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Hamsiny-C/leetcode-java/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Hamsiny-C/leetcode-java/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -298,6 +300,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0268-missing-number](https://github.com/Hamsiny-C/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0621-task-scheduler](https://github.com/Hamsiny-C/leetcode-java/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Hamsiny-C/leetcode-java/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Hamsiny-C/leetcode-java/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
@@ -314,6 +317,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Hamsiny-C/leetcode-java/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Hamsiny-C/leetcode-java/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
@@ -333,6 +337,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0621-task-scheduler](https://github.com/Hamsiny-C/leetcode-java/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Hamsiny-C/leetcode-java/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hamsiny-C/leetcode-java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -358,6 +363,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Hamsiny-C/leetcode-java/tree/main/0621-task-scheduler/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Hamsiny-C/leetcode-java/tree/main/0881-boats-to-save-people/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Hamsiny-C/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 ## Timsort
