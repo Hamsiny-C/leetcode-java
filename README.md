@@ -120,6 +120,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0189-rotate-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Hamsiny-C/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Hamsiny-C/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Hamsiny-C/leetcode-java/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Hamsiny-C/leetcode-java/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -317,6 +318,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0621-task-scheduler](https://github.com/Hamsiny-C/leetcode-java/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Hamsiny-C/leetcode-java/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0912-sort-an-array/) | Medium |
@@ -352,6 +354,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hamsiny-C/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Database
@@ -374,6 +377,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Hamsiny-C/leetcode-java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hamsiny-C/leetcode-java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Hamsiny-C/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -429,9 +433,11 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hamsiny-C/leetcode-java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hamsiny-C/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
