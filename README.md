@@ -151,6 +151,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [1470-shuffle-the-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Hamsiny-C/leetcode-java/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Hamsiny-C/leetcode-java/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1929-concatenation-of-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Hamsiny-C/leetcode-java/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -372,6 +373,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0621-task-scheduler](https://github.com/Hamsiny-C/leetcode-java/tree/main/0621-task-scheduler/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Hamsiny-C/leetcode-java/tree/main/0881-boats-to-save-people/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Hamsiny-C/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Hamsiny-C/leetcode-java/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
