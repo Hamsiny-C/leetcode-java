@@ -154,6 +154,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Hamsiny-C/leetcode-java/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/1929-concatenation-of-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Hamsiny-C/leetcode-java/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -258,6 +259,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0268-missing-number](https://github.com/Hamsiny-C/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Hamsiny-C/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1406-stone-game-iii](https://github.com/Hamsiny-C/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,6 +376,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0881-boats-to-save-people](https://github.com/Hamsiny-C/leetcode-java/tree/main/0881-boats-to-save-people/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Hamsiny-C/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Hamsiny-C/leetcode-java/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
