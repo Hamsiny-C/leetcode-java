@@ -102,6 +102,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Hamsiny-C/leetcode-java/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Hamsiny-C/leetcode-java/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -232,6 +233,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Hamsiny-C/leetcode-java/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Hamsiny-C/leetcode-java/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Hamsiny-C/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
@@ -293,6 +295,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Hamsiny-C/leetcode-java/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/Hamsiny-C/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Hamsiny-C/leetcode-java/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Hamsiny-C/leetcode-java/tree/main/0088-merge-sorted-array/) | Easy |
