@@ -10,14 +10,16 @@ class Solution {
 
         while (!q.isEmpty()) {
             int size = q.size();
+            int last=0;
             for (int i = 0; i < size; i++) {
                 TreeNode node = q.poll();
                 // last node at this level
-                if (i == size - 1) res.add(node.val);
+              last=node.val;
                 // add kids
                 if (node.left != null) q.offer(node.left);
                 if (node.right != null) q.offer(node.right);
             }
+            res.add(last);
         }
         return res;
     }
