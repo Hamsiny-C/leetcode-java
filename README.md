@@ -463,11 +463,13 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hamsiny-C/leetcode-java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -478,6 +480,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hamsiny-C/leetcode-java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -486,4 +489,8 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
