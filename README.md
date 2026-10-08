@@ -375,6 +375,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0608-tree-node](https://github.com/Hamsiny-C/leetcode-java/tree/main/0608-tree-node/) | Medium |
 | [0620-not-boring-movies](https://github.com/Hamsiny-C/leetcode-java/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/1148-article-views-i/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/Hamsiny-C/leetcode-java/tree/main/1193-monthly-transactions-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
