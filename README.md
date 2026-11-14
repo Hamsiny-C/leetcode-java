@@ -464,6 +464,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hamsiny-C/leetcode-java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hamsiny-C/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -473,6 +474,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hamsiny-C/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
@@ -486,6 +488,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hamsiny-C/leetcode-java/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hamsiny-C/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -505,4 +508,8 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
