@@ -469,6 +469,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hamsiny-C/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Hamsiny-C/leetcode-java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -478,6 +479,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hamsiny-C/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Hamsiny-C/leetcode-java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -493,6 +495,7 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hamsiny-C/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hamsiny-C/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Hamsiny-C/leetcode-java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Lifting
@@ -512,4 +515,5 @@ This repository contains my solutions to LeetCode problems using **Java**. My go
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Hamsiny-C/leetcode-java/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Hamsiny-C/leetcode-java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
